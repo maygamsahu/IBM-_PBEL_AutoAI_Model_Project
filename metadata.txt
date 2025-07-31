@@ -1,0 +1,12 @@
+Project Name: AutoAI Model Building in IBM Watson Studio
+Model Name: watsonaqi_model
+Created By: MAYANK SAHU
+Created On: 31 July 2025
+Tool Used: IBM Watsonx.ai Studio service
+Language: Python (for prediction script)
+
+Description:
+This project uses IBM AutoAI to build a machine learning model that predicts PM2.5 levels based on various air quality and weather parameters. The dataset includes features like PM10, NO2, SO2, CO, O3, temperature, humidity, wind speed, etc.
+
+Output:
+A deployed machine learning model that takes test input and predicts PM2.5 levels via API or notebook.
